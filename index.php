@@ -1,4 +1,4 @@
 <?php
 
-	echo "I AM A GOD;
+	echo "I don't even know anymore";
 ?>
