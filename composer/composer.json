@@ -1,0 +1,19 @@
+{
+    "name": "melo/composer",
+    "description": "criando o arquivo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Melo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "melo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
